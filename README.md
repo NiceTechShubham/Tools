@@ -19,7 +19,11 @@ This script is for termux beginners who started termux for learn about ethical h
 *  Installing speed is depend on your Internet Speed
 
 # For Installing  this Script type :-
+
 apt install git -y
+
 git clone https://github.com/NiceTechShubham/Tools.git
+
 cd Tools
+
 bash Tools.sh

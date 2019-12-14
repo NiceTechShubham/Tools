@@ -4,6 +4,8 @@ apt update && apt upgrade -y
 pkg install figlet -y
 pkg install php -y
 pkg install ruby -y
+apt install python -y
+apt install python2 -y
 gem install lolcat
 clear
 echo "This code is written by:-" | lolcat
